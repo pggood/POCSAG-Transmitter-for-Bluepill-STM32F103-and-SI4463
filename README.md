@@ -64,7 +64,7 @@ Installation
 
     bash
 
-    git clone https://github.com/yourusername/stm32-pocsag-transmitter.git
+    git clone https://github.com/pggood/stm32-pocsag-transmitter.git
     cd stm32-pocsag-transmitter
 
 2.  Open in STM32CubeIDE
