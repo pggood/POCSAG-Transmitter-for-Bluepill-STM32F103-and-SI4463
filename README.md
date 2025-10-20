@@ -138,7 +138,7 @@ F 148 0250    # 148.0250 MHz (traditional pager frequency)
 text
 
 POCSAG text-message tool v0.1 (STM32F103 + SI4463)
-https://github.com/yourusername/stm32-pocsag-transmitter
+https://github.com/pggood/stm32-pocsag-transmitter
 Format:
 P <address> <source> <repeat> <message>
 F <freqmhz> <freq100Hz>
